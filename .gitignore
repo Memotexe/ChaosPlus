@@ -55,7 +55,7 @@ Plugins/*/Binaries/*
 Build/*
 
 # Imports
-ChaosPlus/Imports
+ChaosPlus/Content/Imports/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
