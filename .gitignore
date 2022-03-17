@@ -18,6 +18,8 @@
 *.dylib
 *.dll
 
+.tmp.driveupload/
+
 # Fortran module files
 *.mod
 
